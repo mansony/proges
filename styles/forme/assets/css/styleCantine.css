@@ -1,0 +1,17 @@
+table
+{ width:  100%;
+    border:none;
+    border-collapse: collapse;
+}
+th
+{
+    text-align: center;border: solid 1px #eee;background: #f8f8f8;}
+td
+{ text-align: center; }
+.dataTable td{
+padding:10px 5px;
+background-color:#efefef;
+}
+.dataTable th{
+padding:10px 5px;
+}
